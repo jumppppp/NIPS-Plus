@@ -16,7 +16,7 @@
 此外，该系统还内置防探测功能（配置文件中设置密码认证信息）
 ![local](./img/verify.png)
 访问根目录跳转页面（可以自行更换）
-![local](./img/iump.png)
+![local](./img/jump.png)
 404跳转页面（可以自行更换）
 ![local](./img/404.png)
 
